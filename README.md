@@ -1,12 +1,13 @@
+## Chat App - React, Node.js & Socket.io
 
-## Install
+### Install
 
 ```npm install```
 
-## Run the socket server.
+### Run the socket server.
 
 ```npm run server```
 
-## Run dev server
+### Run dev server
 
 ```npm run client```
